@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:57.633504
+#+DATE: 2015-08-30 21:00:58.026740
 #+TITLE: 大乘起信論義記
 #+PROPERTY: CBETA_ID T44n1846
 #+PROPERTY: ID KR6o0105
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1846
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6o0105_T_000-0240c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0105_T_002-0251b> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 中本大乘起信論義記卷中本¶
+大乘起信論義記卷中本¶
 ¶
 京兆府魏國西寺沙門法藏撰¶
 
@@ -206,7 +205,7 @@
 有二句耳。¶
 
 當知一切法不可說不可念故名為真如¶
-　當知下第二結離言絕慮也○就第二問¶
+　第二結離言絕慮也○就第二問¶
 答釋疑中。先疑真絕修問。後舉真勸修答。¶
 
 問曰若如是義者諸眾生等云何隨順而能得¶
@@ -814,8 +813,7 @@
 大乘起信論義記卷中本(終)¶
 ¶
 ¶
-
- 中末大乘起信論義記卷中末¶
+大乘起信論義記卷中末¶
 ¶
 京兆府魏國西寺沙門釋法藏撰¶
 
